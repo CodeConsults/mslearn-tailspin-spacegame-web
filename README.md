@@ -1,4 +1,4 @@
-[![Build Status](https://sitecore4i.visualstudio.com/Test/_apis/build/status/CodeConsults.mslearn-tailspin-spacegame-web?branchName=master)](https://sitecore4i.visualstudio.com/Test/_build/latest?definitionId=26&branchName=master)
+[![Build Status](https://sitecore4i.visualstudio.com/Test/_apis/build/status/CodeConsults.mslearn-tailspin-spacegame-web?branchName=master)](https://sitecore4i.visualstudio.com/Test/_build/latest?definitionId=26&branchName=master) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=space-1&metric=alert_status)](https://sonarcloud.io/dashboard?id=space-1)
 
 # Contributing
 
