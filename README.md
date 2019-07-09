@@ -1,3 +1,4 @@
+[![Build Status](https://sitecore4i.visualstudio.com/Test/_apis/build/status/CodeConsults.mslearn-tailspin-spacegame-web?branchName=master)](https://sitecore4i.visualstudio.com/Test/_build/latest?definitionId=26&branchName=master)
 
 # Contributing
 
